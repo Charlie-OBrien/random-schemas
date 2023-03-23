@@ -1,0 +1,10 @@
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (676460, 'Mord Kipling', 'California', '661-353-5464', '574 Toban Pass', 'Burbank', 'Texas', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (874366, 'Greer Lovel', 'Tennessee', '901-225-0273', '3309 Riverside Street', 'Memphis', 'Mississippi', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (887312, 'Louisa Whyborn', 'Texas', '254-369-5162', '39977 Judy Terrace', 'Killeen', 'Virginia', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (366833, 'Odille Bromont', 'Pennsylvania', '412-146-8141', '89 Rutledge Street', 'Pittsburgh', 'Texas', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (17864, 'Lorena Decker', 'Indiana', '317-874-7510', '9 Bobwhite Pass', 'Indianapolis', 'Kentucky', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (215279, 'Erica Irvin', 'Minnesota', '218-612-0375', '62 Lunder Center', 'Duluth', 'Alabama', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (567442, 'Spenser Brandolini', 'New York', '718-825-7393', '863 Monica Alley', 'New York City', 'Delaware', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (230418, 'Jilli Buttress', 'Washington', '206-523-7613', '64742 Rockefeller Terrace', 'Seattle', 'Missouri', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (334803, 'Erinn Castanone', 'North Carolina', '704-247-8343', '34676 Bobwhite Hill', 'Charlotte', 'Florida', 'United States');
+insert into Reps (rep_code, rep_name, working_area, phone, address, city, state, country) values (25616, 'Druci Habbes', 'Nevada', '702-512-3560', '68499 Oak Plaza', 'Las Vegas', 'Ohio', 'United States');
